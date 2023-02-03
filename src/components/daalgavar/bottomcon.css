@@ -1,0 +1,7 @@
+.bottomcon{
+    width: 100%;
+    margin-top: 20px;
+    height: 78%;
+    display: flex;
+    justify-content: space-between;
+}

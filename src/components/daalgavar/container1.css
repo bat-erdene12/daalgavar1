@@ -1,0 +1,6 @@
+.container1{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    height: 100%;
+}
